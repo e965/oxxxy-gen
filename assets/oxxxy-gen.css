@@ -1,0 +1,25 @@
+body {
+    background-color: #fff;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.main {
+    margin-top: 15px;
+}
+
+.main p {
+    margin: 5px 0;
+}
+
+.main p.pr {
+    margin-top: 15px;
+}
+
+.round {
+    margin-top: 10px;
+}
+
+.round button {
+    padding: 2.5px 5px;
+}
